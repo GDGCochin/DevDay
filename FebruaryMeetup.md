@@ -1,6 +1,6 @@
 # February Community Meetup
 
-##Registration link : http://bit.ly/gdgfebmeetup
+## Registration link : http://bit.ly/gdgfebmeetup
 
 **Date**         : 17th February 2018    
 **Title**        : Kotlin, Hands On      
