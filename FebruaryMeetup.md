@@ -1,7 +1,5 @@
 # February Community Meetup
 
-## Registration link : http://bit.ly/gdgfebmeetup
-
 **Date**         : 17th February 2018    
 **Title**        : Kotlin, Hands On      
 **Deck**         : [https://speakerdeck.com/livin21/intro-to-kotlin](https://speakerdeck.com/livin21/intro-to-kotlin)  
@@ -48,3 +46,7 @@
 [medium-link]: https://medium.com/@livinmathew
 [android-studio-link]: https://developer.android.com/studio/index.html
 [adb-link]: https://developer.android.com/studio/run/device.html
+
+
+## Photos : https://photos.app.goo.gl/Kj3KzF1VNWgHuWSS2
+### Feedback Form : https://docs.google.com/forms/d/e/1FAIpQLSceg6ZIB8oNDYCsB0rnxmuoZX2bU_ppCBKx0a7WbunMLIkxwQ/viewform
