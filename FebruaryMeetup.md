@@ -1,4 +1,7 @@
 # February Community Meetup
+
+##Registration link : http://bit.ly/gdgfebmeetup
+
 **Date**         : 17th February 2018    
 **Title**        : Kotlin, Hands On      
 **Deck**         : ~Will be updated soon after the talk~  
