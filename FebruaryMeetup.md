@@ -48,5 +48,5 @@
 [adb-link]: https://developer.android.com/studio/run/device.html
 
 
-## Photos : https://photos.app.goo.gl/Kj3KzF1VNWgHuWSS2
-### Feedback Form : https://docs.google.com/forms/d/e/1FAIpQLSceg6ZIB8oNDYCsB0rnxmuoZX2bU_ppCBKx0a7WbunMLIkxwQ/viewform
+**Photos** : https://photos.app.goo.gl/Kj3KzF1VNWgHuWSS2
+**Feedback Form** : https://docs.google.com/forms/d/e/1FAIpQLSceg6ZIB8oNDYCsB0rnxmuoZX2bU_ppCBKx0a7WbunMLIkxwQ/viewform
