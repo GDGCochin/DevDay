@@ -4,9 +4,9 @@
 
 **Date**         : 17th February 2018    
 **Title**        : Kotlin, Hands On      
-**Deck**         : ~Will be updated soon after the talk~  
+**Deck**         : [https://speakerdeck.com/livin21/intro-to-kotlin](https://speakerdeck.com/livin21/intro-to-kotlin)  
 **Skeleton Code Repo** : [https://github.com/Livin21/BookStoreKotlinSkeleton](https://github.com/Livin21/BookStoreKotlinSkeleton)    
-**Complete Code Repo** : ~Will be updated soon after the talk~ 
+**Complete Code Repo** : [https://github.com/Livin21/BookStoreKotlin](https://github.com/Livin21/BookStoreKotlin) 
 
 #### Requirements : ####
 * Android Device 
@@ -22,13 +22,17 @@
 * Kotlin - 1.2.21
 
 #### References : ####    
-* ~Will be updated soon after the talk~  
+* [From Java to Kotlin by Mindorks](https://github.com/MindorksOpenSource/from-java-to-kotlin)
+* [Android Kotlin Example](https://github.com/irontec/android-kotlin-samples)
+* [Android Kotlin Demo](https://github.com/yodle/android-kotlin-demo)
+* [Kotlin Tutorial - Derek Banas](https://www.youtube.com/watch?v=H_oGi8uuDpA)
 
 
 #### Speaker : ####  
 [Livin Mathew][github-link], Android Lead @ [LmntrX Tech][lmntrx-link] 
         
-#### Contact :     <br /><br />[![Facebook][facebook-logo]][facebook-link] [![Twitter][twitter-logo]][twitter-link] [![Github][github-logo]][github-link] [![Medium][medium-logo]][medium-link] <br /> mail@livinmathew.me ####
+#### Contact : ####   
+[![Facebook][facebook-logo]][facebook-link] [![Twitter][twitter-logo]][twitter-link] [![Github][github-logo]][github-link] [![Medium][medium-logo]][medium-link] <br /> mail@livinmathew.me
 
 [//]: # (References)
 [facebook-logo]: https://image.ibb.co/f9chfn/facebook.png "facebook.com/livin21"
