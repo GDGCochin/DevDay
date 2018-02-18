@@ -1,2 +1,2 @@
 # DevDay
-Monthly Meetup 
+Github Repo for Monthly Meetup updates
